@@ -8,3 +8,4 @@
 - git init
 - git add "nombrearchivo"
 - git commit -m "descripción significativa del commit"
+- git commit -am "descripción significativa del commit"
